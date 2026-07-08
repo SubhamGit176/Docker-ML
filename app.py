@@ -51,7 +51,7 @@ def config():
         'model_options': MODEL_OPTIONS,
         'llm_url': LLM_URL,
         'max_tokens': MAX_TOKENS,
-        'keep_alive': KEEP_ALIVE,
+        'keep_alive': KEEP_ALIVE
     })
 
 
